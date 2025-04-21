@@ -22,7 +22,7 @@ A simple **command-line banking application** in Java that allows users to creat
 
 ---
 
-##✅ Future Improvements (Optional Ideas)
+✅ Future Improvements (Optional Ideas)
 
 Add file/database storage to save account details.
 
@@ -32,5 +32,5 @@ Improve error handling and input validation.
 
 Build a GUI using JavaFX or Swing.
 
-##📄 License
+📄 License
 This project is licensed under the MIT License.
