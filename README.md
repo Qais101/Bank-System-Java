@@ -33,4 +33,5 @@ Improve error handling and input validation.
 Build a GUI using JavaFX or Swing.
 
 📄 License
+
 This project is licensed under the MIT License.
