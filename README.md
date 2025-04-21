@@ -22,34 +22,8 @@ A simple **command-line banking application** in Java that allows users to creat
 
 ---
 
-## 🛠️ How to Run
+##✅ Future Improvements (Optional Ideas)
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/java-bank-system.git
-   cd java-bank-system
-Compile and run the code:   
-javac MainTest.java BankAccount.java
-java MainTest
-
-##Sample Output 📸
-Enter holder name : John Doe
-Enter account number : 123456
-Enter initial balance : 5000
-Set a 4-digit PIN for your account : ****
-Enter 4-Digits PIN : ****
-Access granted, Welcome John Doe!
-
----menu---
-1.Deposit
-2.Withdraw
-3.Show Balance
-4.Show Account Info
-5.Exit
-Enter Your Choice :
-
-
-✅ Future Improvements (Optional Ideas)
 Add file/database storage to save account details.
 
 Add support for multiple accounts.
@@ -58,5 +32,5 @@ Improve error handling and input validation.
 
 Build a GUI using JavaFX or Swing.
 
-📄 License
+##📄 License
 This project is licensed under the MIT License.
